@@ -3,7 +3,6 @@
  --`index2.ts` - Assignment 2
  --`index3.ts` - Assignment 3
 
- [![Open in Codespaces](https://github.com/codespaces/badge.svg)(htps://codespaces.new/jenniepearl/week2AssignmentRepo)
 
  (* How to run any file on github *)
 1. click **codes** -> **codespaces** -> **Create codespace on main**
