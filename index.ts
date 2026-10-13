@@ -41,7 +41,7 @@ let Bags:Bags = {
 
 }
 
-let all={Laces, Shoes, Bags}
+let all=[Laces, Shoes, Bags]
 console.log(all);
 
 console.log(Bags);
